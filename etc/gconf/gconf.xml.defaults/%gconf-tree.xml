@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<gconf>
+	<dir name="schemas">
+		<dir name="desktop">
+			<dir name="gnome">
+				<dir name="url-handlers">
+					<dir name="vnclicenseserver">
+					</dir>
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+	<dir name="desktop">
+		<dir name="gnome">
+			<dir name="url-handlers">
+				<dir name="vnclicenseserver">
+				</dir>
+			</dir>
+		</dir>
+	</dir>
+</gconf>
